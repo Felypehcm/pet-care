@@ -21,7 +21,8 @@ O PetCare é projetado tanto para tutores de pets quanto para negócios do setor
 
 DOCS:
 
-Excel: TODO
+
+[Excel](https://docs.google.com/spreadsheets/d/1eDgz33FnpHlwuSEHSVJCTDGF1GsL80MNoPayu4oirPs/edit?pli=1&gid=1802091634#gid=1802091634)
 
 [forms para tutores](https://docs.google.com/forms/d/e/1FAIpQLSe5FGl3JrD_9v57CLbXgTdueNWMR61NuLLCIqjwvxLN4wudYA/viewform)
 
