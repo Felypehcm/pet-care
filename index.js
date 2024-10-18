@@ -9,3 +9,15 @@ Gamificação: Participe de desafios e ganhe prêmios e bônus exclusivos.
 Sistema de Acompanhamento: Veja relatórios de serviços e mantenha o bem-estar do seu pet sempre em dia.
 O PatCare é projetado tanto para tutores de pets quanto para negócios do setor pet, promovendo integração e facilidade para ambos.
 */
+
+
+/*
+
+segue alguns links importantes 
+
+FIGMA: https://www.figma.com/design/A433yHlSE0MrBuywtmSngB/Pet-Care---Mobile-App-(Community)?node-id=0-1&node-type=canvas&t=xJqm46JcJOHUN4FT-0
+
+PITCH: https://www.canva.com/design/DAGOac98GJI/kVzUCt4zUMsAd0W3LMVIhg/edit
+
+DOCS:
+*/
